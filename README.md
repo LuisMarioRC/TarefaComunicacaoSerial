@@ -86,6 +86,9 @@ A solução implementa estratégias para:
 2. **Demonstração Física**:  
    - Grave um vídeo demonstrando o funcionamento.  
    - Explique brevemente as funcionalidades implementadas.  
+## Vídeo
+
+Confira a demonstração prática no link: [Link do vídeo](https://www.youtube.com/watch?v=Ub32Qpi0m00).
 
 ### Líder do Projeto  
 - <b><a href="https://github.com/LuisMarioRC">Luis Mario</a></b> 
